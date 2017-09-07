@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/Python-3-ff69b4.svg)](https://img.shields.io/badge/Python-3-ff69b4.svg)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+
 BOMBERMAN
 =========
 
